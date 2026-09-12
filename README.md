@@ -51,8 +51,4 @@ For a real deployment, schedule the same command with Windows Task Scheduler, cr
 ## GitHub
 Recommended repository name: `veda-day31-automated-reporting-pipeline`
 
-Suggested commit sequence:
-1. `feat: add ingestion and transformation pipeline`
-2. `feat: add dashboard-ready reporting outputs`
-3. `feat: add employee analytics dashboard`
-4. `docs: add Power BI and project documentation`
+
