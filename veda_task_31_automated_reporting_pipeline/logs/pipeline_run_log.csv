@@ -1,0 +1,2 @@
+run_timestamp,input_files,input_rows,output_rows,duplicates_removed,missing_manager_tenure_before,missing_manager_tenure_after,status
+2026-09-12T08:24:26,1,1480,1470,10,57,0,SUCCESS

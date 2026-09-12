@@ -1,0 +1,8 @@
+Metric,Value,Format
+Employees,1470.0,number
+Attrition cases,237.0,number
+Attrition rate,0.16122448979591836,percent
+Average monthly income,6502.931292517007,currency
+Average age,36.923809523809524,decimal
+Average years at company,7.0081632653061225,decimal
+Overtime attrition rate,0.30528846153846156,percent

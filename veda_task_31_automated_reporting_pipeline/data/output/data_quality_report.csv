@@ -1,0 +1,11 @@
+Check,Result
+Input rows,1480
+Output rows,1470
+Duplicate EmployeeNumber rows removed,10
+Missing values before treatment,57
+Missing YearsWithCurrManager before treatment,57
+Missing YearsWithCurrManager after treatment,0
+Required columns present,PASS
+Attrition values valid,PASS
+Age range valid,18–60
+EmployeeNumber uniqueness,PASS
